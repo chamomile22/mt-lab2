@@ -1,4 +1,4 @@
-import Messenger from "./WebSock";
+import Messenger from "./Messenger";
 
 function App() {
   return (
